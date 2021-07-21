@@ -1,0 +1,4 @@
+add 54
+divide 2
+multiply 4
+apply 10
